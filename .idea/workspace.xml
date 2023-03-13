@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416a303e-98e5-496f-8088-9769d37b48c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chat/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chat/Main.java" afterDir="false" />
+    <list default="true" id="416a303e-98e5-496f-8088-9769d37b48c9" name="Changes" comment="chat udate">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/chat/entity/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chat/entity/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chat/entity/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chat/entity/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/chat/entity/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/chat/entity/ServerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,8 +163,16 @@
       <workItem from="1678540113924" duration="12896000" />
       <workItem from="1678587163529" duration="141000" />
       <workItem from="1678587341531" duration="8179000" />
-      <workItem from="1678621067719" duration="6218000" />
+      <workItem from="1678621067719" duration="6565000" />
     </task>
+    <task id="LOCAL-00001" summary="chat udate">
+      <created>1678725170383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678725170383</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,5 +188,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chat udate" />
+    <option name="LAST_COMMIT_MESSAGE" value="chat udate" />
   </component>
 </project>
